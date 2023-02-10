@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_First Name</name>
+   <tag></tag>
+   <elementGuidId>94403b7f-8dc1-4085-8135-b5f914e11a95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item-vfb-5']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item-vfb-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3f9b22cc-be37-4e50-8b7c-04b705ce5769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-item vfb-item-text  </value>
+      <webElementGuid>947483c4-252b-4ebe-bd4a-bced103310de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>item-vfb-5</value>
+      <webElementGuid>18831a8f-083f-4c2f-9ef2-4d61e6ff633c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>First Name  *</value>
+      <webElementGuid>7fff3661-d1b1-44bf-bc60-91b22bde68e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item-vfb-5&quot;)</value>
+      <webElementGuid>bee7dc56-cbe1-40db-80e3-72298de268af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='item-vfb-5']</value>
+      <webElementGuid>67a80287-38db-47ff-b74e-2499d8c2fed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='item-vfb-1']/ul/li</value>
+      <webElementGuid>44155ee7-1cb2-4433-95b6-4f65268ed7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register For Demo'])[1]/following::li[1]</value>
+      <webElementGuid>fa7b45d6-3129-4fb5-a6de-0d66a4a2b9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java'])[2]/following::li[1]</value>
+      <webElementGuid>f056e1f6-4edd-46d5-a57a-8f026f304e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/ul/li</value>
+      <webElementGuid>01b88961-5f24-43a0-9471-a06edce0e66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'item-vfb-5' and (text() = 'First Name  *' or . = 'First Name  *')]</value>
+      <webElementGuid>312664aa-5460-4461-8ee2-4fc38eccd1e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

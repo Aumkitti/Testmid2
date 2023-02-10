@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Street AddressApt, Suite, Bldg. (option_28a0e7</name>
+   <tag></tag>
+   <elementGuidId>a28bcf27-e6e9-4aa1-ad0e-c47b85546aab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item-vfb-13']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item-vfb-13 > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d176480c-54c9-4bda-9e6a-23079bdc5f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Street AddressApt, Suite, Bldg. (optional)CityState / Province / RegionPostal / Zip CodeAfghanistanAlbaniaAlgeriaAndorraAngolaAntigua and BarbudaArgentinaArmeniaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo (Brazzaville)CongoCosta RicaCote d\'IvoireCroatiaCubaCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEast Timor (Timor Timur)EcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFijiFinlandFranceGabonGambia, TheGeorgiaGermanyGhanaGreeceGrenadaGuatemalaGuineaGuinea-BissauGuyanaHaitiHondurasHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKorea, NorthKorea, SouthKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMauritaniaMauritiusMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew ZealandNicaraguaNigerNigeriaNorwayOmanPakistanPalestinian TerritoryPalauPanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussiaRwandaSaint Kitts and NevisSaint LuciaSaint VincentSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSpainSri LankaSudanSurinameSwazilandSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTogoTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamWestern SaharaWestern SamoaYemenZambiaZimbabweCountry</value>
+      <webElementGuid>4c34be3a-a96a-416b-a35a-151d7e6709c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item-vfb-13&quot;)/div[1]</value>
+      <webElementGuid>ea7ad33f-8488-4e7b-ac5c-9ba35f94f535</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item-vfb-13']/div</value>
+      <webElementGuid>a43ce6b8-b6e2-40cd-ac07-865186463577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/following::div[1]</value>
+      <webElementGuid>86e4c03c-c7bc-45e8-972a-cb6e98eff423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Others'])[1]/following::div[2]</value>
+      <webElementGuid>84ac8a8f-ffcb-4b44-9e76-c612cd158994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/ul/li[4]/div</value>
+      <webElementGuid>9bc12fde-3c28-4644-a513-409cd5257586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Street AddressApt, Suite, Bldg. (optional)CityState / Province / RegionPostal / Zip CodeAfghanistanAlbaniaAlgeriaAndorraAngolaAntigua and BarbudaArgentinaArmeniaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo (Brazzaville)CongoCosta RicaCote d\&quot; , &quot;'&quot; , &quot;IvoireCroatiaCubaCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEast Timor (Timor Timur)EcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFijiFinlandFranceGabonGambia, TheGeorgiaGermanyGhanaGreeceGrenadaGuatemalaGuineaGuinea-BissauGuyanaHaitiHondurasHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKorea, NorthKorea, SouthKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMauritaniaMauritiusMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew ZealandNicaraguaNigerNigeriaNorwayOmanPakistanPalestinian TerritoryPalauPanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussiaRwandaSaint Kitts and NevisSaint LuciaSaint VincentSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSpainSri LankaSudanSurinameSwazilandSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTogoTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamWestern SaharaWestern SamoaYemenZambiaZimbabweCountry&quot;) or . = concat(&quot;Street AddressApt, Suite, Bldg. (optional)CityState / Province / RegionPostal / Zip CodeAfghanistanAlbaniaAlgeriaAndorraAngolaAntigua and BarbudaArgentinaArmeniaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo (Brazzaville)CongoCosta RicaCote d\&quot; , &quot;'&quot; , &quot;IvoireCroatiaCubaCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEast Timor (Timor Timur)EcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFijiFinlandFranceGabonGambia, TheGeorgiaGermanyGhanaGreeceGrenadaGuatemalaGuineaGuinea-BissauGuyanaHaitiHondurasHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKorea, NorthKorea, SouthKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMauritaniaMauritiusMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew ZealandNicaraguaNigerNigeriaNorwayOmanPakistanPalestinian TerritoryPalauPanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussiaRwandaSaint Kitts and NevisSaint LuciaSaint VincentSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSpainSri LankaSudanSurinameSwazilandSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTogoTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamWestern SaharaWestern SamoaYemenZambiaZimbabweCountry&quot;))]</value>
+      <webElementGuid>890bcb14-d431-4cbc-8bec-5b27e45f6d7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

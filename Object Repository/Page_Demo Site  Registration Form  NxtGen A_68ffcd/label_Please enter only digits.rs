@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Please enter only digits</name>
+   <tag></tag>
+   <elementGuidId>faed7c65-c7be-4df1-b102-77d94ed5049b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='item-vfb-2']/ul/li/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.vfb-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f7873bcd-97e7-4832-b938-7bc1559f4c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>vfb-3</value>
+      <webElementGuid>f1d59901-c136-4a54-a0ad-397d4ce1ee04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>generated</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4a271937-57cf-4eee-97ac-036348ebc83c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-error</value>
+      <webElementGuid>e3468fcb-33e1-4b37-866a-cab56c66283a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter only digits.</value>
+      <webElementGuid>16f23acb-5cf9-488e-bd49-e36c2f1a512a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item-vfb-2&quot;)/ul[@class=&quot;vfb-section vfb-section-2&quot;]/li[@class=&quot;vfb-item vfb-item-secret&quot;]/span[@class=&quot;vfb-span&quot;]/label[@class=&quot;vfb-error&quot;]</value>
+      <webElementGuid>148e4e32-a194-4255-bb88-f1fdb3542fb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='item-vfb-2']/ul/li/span/label</value>
+      <webElementGuid>8853db77-547d-45c9-9bf7-81fc6b39cb6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::label[1]</value>
+      <webElementGuid>5a990122-e788-4b9f-8e17-5a49cfa06f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Example: 99'])[1]/preceding::label[1]</value>
+      <webElementGuid>86635cb9-51f8-4b12-b890-4dd17ddfe83c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This box is for spam protection - &lt;strong>please leave it blank&lt;/strong>:'])[1]/preceding::label[2]</value>
+      <webElementGuid>532e970c-00a4-47e1-aeb3-6aa28876b8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter only digits.']/parent::*</value>
+      <webElementGuid>d9bc5c0f-f8df-4626-8a53-64cc5d84bb61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/ul/li/span/label</value>
+      <webElementGuid>ffa01a7b-ca7f-44dd-a60c-59068de57e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Please enter only digits.' or . = 'Please enter only digits.')]</value>
+      <webElementGuid>abb9bd25-c6da-400d-a47a-de1865928ceb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
